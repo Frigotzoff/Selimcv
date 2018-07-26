@@ -1,1 +1,1 @@
-alert(confirm("can i have your name ?"));
+alert("Ok = You love Selim");
